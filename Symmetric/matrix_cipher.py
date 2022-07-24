@@ -1,7 +1,6 @@
 import numpy as np
-import numpy.matlib
 import random
-from lib.xeuclidean import XEuclidean
+from utils.xeuclidean import XEuclidean
 
 class MatrixCipher:
     def __init__(self, n, p):

@@ -1,4 +1,4 @@
-from lib.groupgenerator import GroupGenerator
+from utils.groupgenerator import GroupGenerator
 
 class DiffieHellman:
     @staticmethod

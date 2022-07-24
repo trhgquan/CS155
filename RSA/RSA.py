@@ -1,5 +1,5 @@
-from lib.bigmod import BigMod
-from lib.xeuclidean import XEuclidean
+from utils.bigmod import BigMod
+from utils.xeuclidean import XEuclidean
 import random
 
 class RSA:
