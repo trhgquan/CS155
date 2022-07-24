@@ -1,4 +1,4 @@
-from lib.bigmod import BigMod
+from bigmod import BigMod
 from functools import reduce
 import random
 
